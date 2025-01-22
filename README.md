@@ -4,7 +4,7 @@
 **fjmm01/fjmm01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop cool games.\
 🎓 &nbsp;I'm currently studying Unreal Engine 5 in Tokio School.\

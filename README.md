@@ -59,11 +59,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&include_all_commits=true&count_private=true) 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fjmm01&show_icons=true&theme=radical&include_all_commits=true&count_private=true) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&langs_count=8) 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?fjmm01&layout=compact&theme=radical&langs_count=8) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?fjmm01&theme=radical)
 
 </div>
 
@@ -75,7 +75,7 @@
 **Género**: Narrativo/Plataformas2D | **Plataforma**: PC | **Engine**: Unity
 
 <!-- Aquí iría un GIF animado del gameplay -->
-![Gameplay Demo](https://drive.google.com/file/d/1wMyQ2bVeZicyJKsnKxTjEnBi6ftgVou3/view?usp=sharing)
+![Gameplay Demo](https://drive.google.com/file/d/1wMyQ2bVeZicyJKsnKxTjEnBi6ftgVou3/view?usp=sharing/600x300/0078D4/FFFFFF?text=Kaodi)
 
 **Características Principales:**
 - ✨ Sistema de combate exigente
@@ -85,7 +85,7 @@
 **Tecnologías Utilizadas:** Unity 6, C#, Shader Graph, Addressables, Unity Analytics
 
 [![Jugar Demo](https://img.shields.io/badge/🎮_Jugar_Demo-FF5722?style=for-the-badge)](https://store.steampowered.com/app/3325580/Kaodi_Demo/)
-[![Comprar Juego](https://img.shields.io/badge/📂_Comprar Juego-FF5722?style=for-the-badge)](https://store.steampowered.com/app/3325570/Kaodi/)
+[![Comprar Juego](https://img.shields.io/badge/📂_Comprar_Juego-000000?style=for-the-badge&logo=steam)](https://store.steampowered.com/app/3325570/Kaodi/)
 
 ---
 

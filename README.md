@@ -75,7 +75,7 @@
 **Género**: Narrativo/Plataformas2D | **Plataforma**: PC | **Engine**: Unity
 
 <!-- Aquí iría un GIF animado del gameplay -->
-![Gameplay Demo](https://drive.google.com/file/d/1wMyQ2bVeZicyJKsnKxTjEnBi6ftgVou3/view?usp=sharing/600x300/0078D4/FFFFFF?text=Kaodi)
+
 
 **Características Principales:**
 - ✨ Sistema de combate exigente
@@ -183,7 +183,7 @@
 
 *Gracias por visitar mi perfil. ¡Creemos algo increíble juntos!* 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=tu-usuario&color=blueviolet&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/tu-usuario?style=for-the-badge&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=fjmm01&color=blueviolet&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/fjmm01?style=for-the-badge&color=blue)
 
 </div>

@@ -145,7 +145,7 @@
 
 
 ### 📧 Email Profesional
-**[tu-email-profesional@gmail.com](mailto:fjmurillomunoz@gmail.com)**
+**[fjmurillomunoz@gmail.com](mailto:fjmurillomunoz@gmail.com)**
 
 </div>
 

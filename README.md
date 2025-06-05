@@ -61,9 +61,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=fjmm01&show_icons=true&theme=radical&include_all_commits=true&count_private=true) 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?fjmm01&layout=compact&theme=radical&langs_count=8) 
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?fjmm01&theme=radical)
 
 </div>
 
@@ -111,19 +108,7 @@
 
 ---
 
-## 🌱 Mi Viaje de Aprendizaje
 
-### 📚 Actualmente Estudiando
-
-**Desarrollo Web Full-Stack**
-- ![Progress](https://progress-bar.dev/75/?title=React&width=300&color=61DAFB)
-- ![Progress](https://progress-bar.dev/60/?title=Node.js&width=300&color=43853D)
-- ![Progress](https://progress-bar.dev/45/?title=MongoDB&width=300&color=4EA94B)
-
-**C++ Avanzado**
-- ![Progress](https://progress-bar.dev/70/?title=STL&width=300&color=00599C)
-- ![Progress](https://progress-bar.dev/55/?title=Memory%20Management&width=300&color=00599C)
-- ![Progress](https://progress-bar.dev/40/?title=Multithreading&width=300&color=00599C)
 
 ### 🎯 Próximos Objetivos
 - [ ] **Completar certificación en React Development**
